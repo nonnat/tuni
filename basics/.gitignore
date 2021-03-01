@@ -1,3 +1,4 @@
-.in
-.out
-.pyc
+# ignore files with these extensions
+*.in
+*.out
+*.pyc
